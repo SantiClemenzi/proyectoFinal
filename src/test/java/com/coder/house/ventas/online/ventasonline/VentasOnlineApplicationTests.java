@@ -1,10 +1,10 @@
-package com.ProyectoFinalClemenzi;
+package com.coder.house.ventas.online.ventasonline;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProyectoFinalClemenziApplicationTests {
+class VentasOnlineApplicationTests {
 
 	@Test
 	void contextLoads() {
